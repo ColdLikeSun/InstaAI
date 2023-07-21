@@ -7,10 +7,10 @@
 
 #Links
 
-1- https://open-assistant.io/ - Open Assistant is an open-source AI assistant that uses and trains advanced language models to understand and respond to humans.
-2- https://huggingface.co/ - Hugging Faceis a company that develops tools for building applications using machine learning. It is most notable for its transformers library built for natural language processing applications and its platform that allows users to share machine learning models and datasets.
-3- https://www.djangoproject.com/ - Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.t It takes care of much of the hassle of web development, so we can focus on writing our app without needing to reinvent the wheel. It’s free and open source.
-4- https://peps.python.org/pep-0008/ - Pep 8 is a document that provides guidelines and best practices on how to write Python code.
+1- https://open-assistant.io/ - Open Assistant is an open-source AI assistant that uses and trains advanced language models to understand and respond to humans. <br />
+2- https://huggingface.co/ - Hugging Faceis a company that develops tools for building applications using machine learning. It is most notable for its transformers library built for natural language processing applications and its platform that allows users to share machine learning models and datasets. <br />
+3- https://www.djangoproject.com/ - Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.t It takes care of much of the hassle of web development, so we can focus on writing our app without needing to reinvent the wheel. It’s free and open source. <br />
+4- https://peps.python.org/pep-0008/ - Pep 8 is a document that provides guidelines and best practices on how to write Python code. <br />
 
  #FAQ
 
