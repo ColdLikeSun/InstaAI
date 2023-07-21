@@ -1,6 +1,6 @@
 # InstaAI
 
-#Step-By-Step MVP Approach
+#Step-By-Step MVP Approach <br />
  1- Make API endpoint with the choosen instagram account to retrieve all the followings accounts. <br />
  2- Custumize our own API endpoint using hugging face (open source AI model) to receive all the followings accounts/page from the choosen instagram account. <br />
  3- Send to the API AI Model the data received and handled on step 1 to process all the information. <br />
