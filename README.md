@@ -1,9 +1,9 @@
 # InstaAI
 
- 1- Make API endpoint with the choosen instagram account to retrieve all the followings accounts.
- 2- Custumize our own API endpoint using hugging face (open source AI model) to receive all the followings accounts/page from the instagramm.
- 3- Send to the API AI Model the data received and handled on step 1 to process all the information.
- 4- Return to the user 2 types of results - short and long answer about the instagram page requeste.
+ 1- Make API endpoint with the choosen instagram account to retrieve all the followings accounts. <br />
+ 2- Custumize our own API endpoint using hugging face (open source AI model) to receive all the followings accounts/page from the instagramm. <br />
+ 3- Send to the API AI Model the data received and handled on step 1 to process all the information. <br />
+ 4- Return to the user 2 types of results - short and long answer about the instagram page requeste. <br />
 
 #Links
 
