@@ -1,7 +1,8 @@
 # InstaAI
 
+#Step-By-Step MVP Approach
  1- Make API endpoint with the choosen instagram account to retrieve all the followings accounts. <br />
- 2- Custumize our own API endpoint using hugging face (open source AI model) to receive all the followings accounts/page from the instagramm. <br />
+ 2- Custumize our own API endpoint using hugging face (open source AI model) to receive all the followings accounts/page from the choosen instagram account. <br />
  3- Send to the API AI Model the data received and handled on step 1 to process all the information. <br />
  4- Return to the user 2 types of results - short and long answer about the instagram page requeste. <br />
 
@@ -16,4 +17,4 @@
 
  1- Login on instagram account will be necessary?
 
- 2- Prompt API (hugging face) has characters limit? If yes, do we have the possibility to split it or manipulate the data to provide the best results from it?
+ 2- Prompt API (hugging face) has characters limit? If yes, do we have the possibility to split it or manipulate the data to provide the best results for it?
